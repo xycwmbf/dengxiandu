@@ -1,2 +1,5 @@
 # dengxiandu
-just for fun
+#just for fun
+
+print("hello world,hello GitHub")
+
